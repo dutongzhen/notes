@@ -32,9 +32,9 @@ class BaiduSocialAdsController extends AppController {
 
         $convertTime = time();
 
-        $username = 'sh欢居2';
-        $password = 'Youjksh9385';
-        $token = 'db01ea4a578055b7fcd7c4b0cc430dfc';
+        $username = '';
+        $password = '';
+        $token = '';
         $uid = 10226134;
         $apiurl = "https://api.baidu.com/json/sms/service/ECPAConvertDataService/uploadECPAConvertData";
 
@@ -81,9 +81,9 @@ class BaiduSocialAdsController extends AppController {
 
         $convertTime = time();
 
-        $username = 'sh-欢居1';
-        $password = 'Shyoujuke-01';
-        $token = '383a7b7552bbb7c5f0d6d369250781d2';
+        $username = '';
+        $password = '';
+        $token = '';
         $uid = 11216139;
         $apiurl = "https://api.baidu.com/json/sms/service/ECPAConvertDataService/uploadECPAConvertData";
 

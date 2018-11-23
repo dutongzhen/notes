@@ -285,44 +285,44 @@ class AutoExecuteController extends AppController {
             1 => [
 
                 'channel' => 'jrtt',
-                'key'     => 'MzgwTjVLMUhGVlpF',
-                'token'   => 'b3c3e553296548023c5f6610d65d2593106291fe'
+                'key'     => '',
+                'token'   => ''
             ],
             2 => [
 
                 'channel' => 'JRTTDSP',
-                'key'     => 'QzVSS0NVTlRNTDZE',
-                'token'   => 'b1a2c55e0665d5544a7c8b30f2778b098ecb7455'
+                'key'     => '',
+                'token'   => ''
             ],
             3 => [
 
                 'channel' => 'jrtt3',
-                'key'     => 'NDhPQkFZU0dPVFk3',
-                'token'   => 'e30207ea6bcc7ced916b27e9c9de5188fe5f4a21'
+                'key'     => '',
+                'token'   => ''
             ],
             4 => [
 
                 'channel' => 'JRTT4',
-                'key'     => 'QUNIMUxYQVRTT08y',
-                'token'   => '244695bb1019efa181a52cb84a54b747ec1f77a2'
+                'key'     => '',
+                'token'   => ''
             ],
             5 => [
 
                 'channel' => 'YJJRTTZQ',
-                'key'     => 'VVNWUFZPMTlHS1NC',
-                'token'   => '8f03970093e6d52442ca84ac1101081e4114f804'
+                'key'     => '',
+                'token'   => ''
             ],
             6 => [
 
                 'channel' => 'JRTTZC',
-                'key'     => 'WUU2NU5PTFhFME1C',
-                'token'   => '428d1d4cbe3bf46d3006548b6ead5fb5b714baa3'
+                'key'     => '',
+                'token'   => ''
             ],
             7 => [
 
                 'channel' => 'YJJRTTZC',
-                'key'     => 'VDlNSE9GNjU4VVFH',
-                'token'   => '9b6eea48d58c6699935eb77742382b8f4099b0a8'
+                'key'     => '',
+                'token'   => ''
             ]
         ];
 

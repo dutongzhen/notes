@@ -10,10 +10,10 @@ class TencentSocialAdsController extends AppController {
     public $uses = [];
 
     //腾讯社交广告账号
-    private $AppID       = '1106510092';
-    private $AppSecret   = '137s3lZhMuo71TJm';
-    private $AccountId   = '1911083';
-    private $ActionSetId = '1106550914';
+    private $AppID       = '';
+    private $AppSecret   = '';
+    private $AccountId   = '';
+    private $ActionSetId = '';
 
     public function index(){
 

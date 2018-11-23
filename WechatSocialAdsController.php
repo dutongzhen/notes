@@ -12,9 +12,9 @@ class WechatSocialAdsController extends AppController {
     public $uses = [];
 
     //微信服务号账号
-    private $AppID       = 'wx1ace2c8f40fd6605';
-    private $AppSecret   = '6ba999c53b578fb9aecf4b07c17a4f81';
-    private $ActionSetId = '1106877781';
+    private $AppID       = '';
+    private $AppSecret   = '';
+    private $ActionSetId = '';
 
     //定时获取或刷新token（需要每两小时更新一次）
     public function index(){
